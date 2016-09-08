@@ -10,6 +10,10 @@ permalink: /about/
 * Nickname: heaven
 * E-mail: sunjae.park.au@gmail.com / sunjae.park.kr@gmail.com
 
+# Cover
+
+iOS App Developer with 4+ years of experience 
+
 -----
 
 # Technologies
@@ -28,16 +32,16 @@ permalink: /about/
 
 ## [Dabeeo](http://www.dabeeo.com)
 
-* Using OpenStreetMap(Opensource libarary called Route-Me) written by Objective-C for map control 
-* Create some Custom UIs and Controls on iOS write by Objective-C / Swift
-* Configured project management system like redmine, gitolite in-house
+* Maintained and developed project based on open source map(OpenStreetMap, Route-Me library) by Objective-C
+* Implemented customised UI appropriate for commercial service on iOS by Objective-C / Swift 
+* Managed and set up projects management environments as Redmine, Gitolite
 
 ## [Mintech](http://mintech.kr)
 
-* Using GPS(by CoreLocation Framework) and Camera(by UIKit) in iOS written by Objective-C
-* Using facebook account(by Accounts Framework) in iOS written by Objective-C
-* Create some Custom UIs on iOS write by Objective-C
+* SI, Customer's needs... + Maintained and developed project based on iOS Basically Frameworks by Objective-C
+* Implemented customised UI appropriate for commercial service on iOS by Objective-C
 * Editing crawler for web page written by Ruby.
+* Project management
 
 -----
 

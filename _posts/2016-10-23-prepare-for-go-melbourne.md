@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "멜번으로 오기 전 준비할 것"
+title:  "멜번으로 오기 전 준비한/할 것"
 date:   2016-10-23 17:30:00 +1100
 categories: [melbourne, australia, workingholiday]
 
@@ -8,7 +8,9 @@ categories: [melbourne, australia, workingholiday]
 
 홍콩을 거쳐 멜번이라는 곳을 다시 찾은지 2개월.
 
-더 많은 시간이 지나기 전에 이곳에 오기까지의 이야기를 정리하려고 한다.
+더 많은 시간이 지나기 전에 이곳에 오기전에 준비했던 것들, 지내면서 준비했으면 하는 것들을 이야기하려고 한다.
+
+
 
 
 # [Workingholiday Visa](https://www.border.gov.au/Trav/Visa-1/417-)
@@ -27,6 +29,8 @@ categories: [melbourne, australia, workingholiday]
 신청한 비자의 모든 상태(결제, 신체검사 대기, 완료 등)는 [호주 이민성](http://www.border.gov.au)에서 신청서 작성할 때 만든 계정으로 계속 확인 할 수 있고 계정에 연결된 이메일로도 발송되니까 이메일만 잘 확인하면 과정을 계속 안내받을 수 있다.
 
 
+
+
 # 항공편
 
 비자의 준비 기간이 얼마나 걸릴지 아무도 확신할 수 없기 때문에 항공편 준비는 비자의 준비가 마무리된 이후에 하는 것이 좋다.
@@ -34,6 +38,8 @@ categories: [melbourne, australia, workingholiday]
 나중에 알아보니 [http://travelpost.kr/2016/01/07/how-to-find-lowest-ticket-price/](http://travelpost.kr/2016/01/07/how-to-find-lowest-ticket-price/) 이 블로그에 내용이 주변분들의 해준 이야기(쿠키 신공)도 있었고 잘 정리되어 있어 같이 공유한다. 항공편 알아보기 전에 한번 봐두면 좋겠다.
 
 참고로 나는 [Asiana](http://flyasiana.com/)(ICN to HKG)와 [Quantas](http://www.qantas.com)(HKG to MEL)의 항공권을 [skyscanner](https://www.skyscanner.co.kr)에서 비교해서 [와이페이모어](http://www.whypaymore.co.kr)에서 구입해서 들어왔다.
+
+
 
 
 # 영문 이력서(Cover letter, Resume / CV)
@@ -47,6 +53,8 @@ categories: [melbourne, australia, workingholiday]
 그리고 seek.com.au 같은 구인구직 사이트에서 본인이 하던 일(나의 경우 iOS App 개발)과 관련된 공고를 보면서 어떤 내용을 강조해야할지를 보고 이력서를 작성하는 것도 많은 도움이 된다고 한다. 
 
 
+
+
 # 각종 생활용품
 
 처음에 여행을 잘 다니지 않아봐서 그런지 무엇을 챙겨야할지 몰랐다. 그래서 주변에 호주로 워킹홀리데이를 다녀온 친구나 가 있던 친구에게 연락해서 무엇을 챙겨가야 하는지 물어보면서 준비했다.
@@ -57,6 +65,8 @@ categories: [melbourne, australia, workingholiday]
 다음으로 우산은 꼭 튼튼한 것으로 준비하도록 하자. 들어올 때가 겨울이어서 그런지 비가 자주왔는데 약간의 비는 그냥 맞고 다닌다. 다만 비가 좀 많이 올 때 우산을 쓰게되는데 서울에서보다 바람이 강해서 일반 우산들은 쉽게 뒤집어지거나 부러진다.
 
 마지막으로 맑은 날일때의 햇살은 서울의 그것과 비교할 수 없을 정도로 강하다. 심할 때는 고개를 바로 들고 앞으로 나아가기 힘들 정도여서 꼭 선글라스를 준비해와야 한다.
+
+
 
 
 # 영어
@@ -72,10 +82,12 @@ categories: [melbourne, australia, workingholiday]
 사실 아직도 제대로 하고 싶은 이야기를 표현하지 못하고 있으면서 이런 내용을 적는것이 맞는가 싶기는 하지만 인천공항에서 비행기를 탔을 때보다는 나아졌고 그 동안 느낀 것들에 대한 이야기라고 생각해주면 좋겠다.
 
 
+
 -----
 
 
-# 그리고...
+
+# 그리고…
 
 일단 나는 iOS App을 만드는 일을 4년 정도 해왔고 멜번에 와서도 관련 일을 구하고 있다.
 비슷하게 IT 개발자로서 호주 / 멜번에 가려고 한다면 [http://www.haruair.com/](http://www.haruair.com/) 이나 [http://blog.eeearl.com](http://blog.eeearl.com) 등 이미 살고 있는 분들의 이야기도 함께 보면 좋겠다.

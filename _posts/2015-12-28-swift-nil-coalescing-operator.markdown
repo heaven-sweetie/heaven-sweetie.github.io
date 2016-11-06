@@ -2,7 +2,9 @@
 layout: post
 title:  "Nil Coalescing Operator"
 date:   2015-12-28 12:16:00 +0900
-categories: swift
+categories: [swift]
+tags: [ios, swift, raywenderlich, operator, nil]
+
 ---
 
 Raywenderlich의 Tutorial을 따라 하던 중에 잘 모르겠는 연산자가 보여서 정리

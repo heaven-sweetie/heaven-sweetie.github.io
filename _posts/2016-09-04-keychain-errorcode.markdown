@@ -2,7 +2,9 @@
 layout: post
 title:  "Keychain / SecItemAdd returns the following error code: -34018"
 date:   2016-09-04 16:00:00 +1000
-categories: iOS
+categories: [iOS]
+tags: [ios, swift, keychain, error]
+
 ---
 
 Keychain Wrapper를 구현하고 싶었지만 일단 기능의 진행을 위해 다른 사람들이 구현해놓은 Wrapper를 가져다 쓰기로 했다.

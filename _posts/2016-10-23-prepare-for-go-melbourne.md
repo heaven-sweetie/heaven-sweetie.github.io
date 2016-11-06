@@ -2,7 +2,8 @@
 layout: post
 title:  "멜번으로 오기 전 준비한/할 것"
 date:   2016-10-23 17:30:00 +1100
-categories: [melbourne, australia, workingholiday]
+categories: [diary]
+tags: [melbourne, australia, workingholiday, english, cover letter, resume]
 
 ---
 

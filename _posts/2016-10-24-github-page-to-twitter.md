@@ -2,7 +2,9 @@
 layout: post
 title:  "github page에 글 쓰고 twitter에 알리기(1)"
 date:   2016-10-25 13:00:00 +1100
-categories: [github, twitter]
+categories: [twitter]
+tags: [twitter, github]
+
 ---
 
 

@@ -2,7 +2,9 @@
 layout: post
 title:  "Melbourne에서의 첫번째 주말"
 date:   2016-08-21 19:00:00 +1000
-categories: diary
+categories: [diary]
+tags: [melbourne]
+
 ---
 
 화요일(2016년 8월 16일) 아침 도착한 Melbourne에서의 첫번째 주말.

@@ -2,7 +2,9 @@
 layout: post
 title:  "Configure swift environment on Ubuntu server"
 date:   2016-10-13 13:00:00 +1100
-categories: Swift
+categories: [Swift]
+tags: [ios, swift, server, perfect, ubuntu]
+
 ---
 
 iOS App 개발자로 4년이란 시간을 보내면서 여러가지 생각을 가지게 됐다.
@@ -85,10 +87,10 @@ broadcast 192.168.56.255
 
 > **Note**
 >
-> 
+>
 > Swift, Swift-Package 가 정상 동작하지 않고 libpython이나 libcurl을 설치하도록 유도하는 경우 
 >
-> 
+>
 > `$ sudo apt-get install libpython2.7-develop, libcurl3`
 
 # hello world
@@ -102,7 +104,6 @@ Swift를 build하기 위한 기본적인 설치/구성이 다 되었으니 Hello
 * `$ swift package init --type executable`
 * `$ swift build`
 * `$ .build/debug/Hello`
-
 
 
 -----

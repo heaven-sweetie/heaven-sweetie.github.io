@@ -2,7 +2,10 @@
 layout: post
 title:  "Alamofire / Swift3"
 date:   2016-09-09 18:00:00 +1000
-categories: iOS
+categories: [iOS]
+tags: [ios, swift, alamofire, network, xcode, version, xcode-select]
+
+
 ---
 
 Alamofire...
